@@ -39,6 +39,8 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
+  color: black;
+  background-color: yellow;
 }
 
 h1 {
